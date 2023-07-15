@@ -259,7 +259,7 @@ a {
 }
 
 .banner {
-  background: url(img/index/index1.jpg) no-repeat;
+  background: url(https://raw.githubusercontent.com/buckhorn17/D-PERFUME/main/img/index/index1.jpg) no-repeat;
   background-size: cover;
   height: 870px;
 }
@@ -378,7 +378,7 @@ a {
   position: absolute;
   width: 100%;
   height: 100%;
-  background-image: url(img/index/photo-1559264730-1533a6ec0433.png);
+  background-image: url(https://raw.githubusercontent.com/buckhorn17/D-PERFUME/main/img/index/photo-1559264730-1533a6ec0433.png);
 }
 .popular .popular-card:last-child .popular-card-header::after {
   content: "Sold out";
@@ -416,7 +416,7 @@ a {
 }
 
 .subscribe {
-  background: url("img/index/index10.jpg") no-repeat fixed;
+  background: url(https://raw.githubusercontent.com/buckhorn17/D-PERFUME/main/img/index/index10.jpg) no-repeat fixed;
   background-size: cover;
   background-position-y: 40.5%;
   height: 600px;
