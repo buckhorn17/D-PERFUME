@@ -1,0 +1,157 @@
+.ft-h1 {
+    font-size: $font-h1;
+}
+
+.ft-h2 {
+    font-size: $font-h2;
+}
+
+.ft-h3 {
+    font-size: $font-h3;
+}
+
+.ft-p1 {
+    font-size: $font-medium ;
+}
+
+.ft-p2 {
+    font-size: $font-small;
+}
+
+.ft-arr {
+    font-size: $font-tiny;
+}
+
+.ftlh-21 {
+    line-height: 21px;
+}
+
+.ftlh-24 {
+    line-height: 24px;
+}
+
+.ftlh-30 {
+    line-height: 30px;
+}
+
+
+.ftlh-36 {
+    line-height: 36px;
+}
+
+.ftlh-42 {
+    line-height: 42px;
+}
+
+.ftlh-48 {
+    line-height: 48px;
+}
+
+.ftlh-60 {
+    line-height: 60px;
+}
+
+.ft-w4 {
+    font-weight: $font-w4;
+}
+
+.ft-w3 {
+    font-weight: $font-w3;
+}
+
+.ft-w6 {
+    font-weight: $font-w6;
+}
+
+.ft-w9 {
+    font-weight: $font-w9;
+}
+
+.ft-wb {
+    font-weight: $font-wb;
+}
+
+.fts-it {
+    font-style: italic;
+}
+
+.fttd-lt {
+    text-decoration: line-through;
+}
+
+
+.ft-khaki01 {
+    color: $color-khaki01;
+}
+
+.ft-khaki02 {
+    color: $color-khaki02;
+}
+
+.ft-white {
+    color: white;
+}
+
+.ft-black {
+    color: black;
+}
+
+.ft-grey {
+    color: $color-grey01;
+}
+
+.bg-khaki {
+    background: $color-khaki03;
+}
+
+.bg-grey {
+    background: $color-grey02;
+}
+
+a {
+    text-decoration: none;
+}
+
+.flex-sb {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.flex-sa {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.flex-wrap{
+    flex-wrap: wrap;
+}
+
+.ml8{
+    margin-left: 8px;
+}
+
+.mb2{
+    margin-bottom: 2px;
+}
+
+.mb16{
+    margin-bottom: 16px;
+}
+
+.mb20 {
+    margin-bottom: 20px;
+}
+
+.mb52 {
+    margin-bottom: 52px;
+}
+
+.mb60 {
+    margin-bottom: 60px;
+}
+
+.mt60{
+    margin-top: 60px;
+}
